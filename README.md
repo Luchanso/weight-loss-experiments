@@ -1,3 +1,10 @@
+Instruction
+```sh
+docker build . -t weight-loss
+docker run --rm -v ~/dev/github/weight-loss/data:/src/data -it weight-loss
+```
+
+---
 Discovering ketosis: _how to effectively lose weight_
 =====================================================
 

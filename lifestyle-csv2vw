@@ -48,7 +48,7 @@ sub process_input() {
             next;
         }
 
-        
+
         #
         # -- collect daily (gain + factors) data points in @daily
         #
